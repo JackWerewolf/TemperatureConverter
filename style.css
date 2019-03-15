@@ -1,0 +1,30 @@
+body{
+    background: url(img/earth-from-space.png) no-repeat center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.ac{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tc{
+    font-family: 'Gugi', cursive;
+    color: #ffffff;
+}
+
+.algn{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.bg-blue{
+    background-color: #040722 !important;
+}
+
+.bm{
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
