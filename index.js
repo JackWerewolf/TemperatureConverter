@@ -55,10 +55,3 @@ function celciousToKelvin(){
     return fToKelvin;
 }
 boton4.addEventListener('click', celciousToKelvin);
-
-
-
-
-// const arrow = number => number + 6;
-
-// arrow(9);
