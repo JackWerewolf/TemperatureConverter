@@ -54,4 +54,4 @@ function celciousToKelvin(){
     cToKelvin.innerHTML = Number(celcious2.value) + 273.15 + gradosK;
     return fToKelvin;
 }
-boton4.addEventListener('click', celciousToKelvin); 
+boton4.addEventListener('click', celciousToKelvin);    
